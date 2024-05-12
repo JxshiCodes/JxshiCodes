@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make games like the ones that sparked my imagination
 - ⚡ Any projects will be posted onto here -->
 
-🎮 Favourite Games:
+### 🎮 Favourite Games:
 1. The Legend of Zelda: Breath of The Wild - Nintendo
 2. Halo 3 - Bungie
 3. Portal 2 - Valve Software
