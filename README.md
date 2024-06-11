@@ -8,4 +8,4 @@
 2. Halo 3 - Bungie
 3. Portal 2 - Valve Software
 4. Titanfall 2 - Respawn Entertainment
-5. Hades - Supergiant Games
+5. StarCraft II - Blizzard Entertainment
