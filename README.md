@@ -4,8 +4,8 @@
 - ⚡ Any projects will be posted onto here -->
 
 ### 🎮 Favourite Games:
-1. The Legend of Zelda: Breath of The Wild - Nintendo
-2. Halo 3 - Bungie
-3. Portal 2 - Valve Software
-4. Titanfall 2 - Respawn Entertainment
-5. StarCraft II - Blizzard Entertainment
+The Legend of Zelda: Breath of The Wild - Nintendo
+Counter-Strike: Global Offensive - Valve Software
+Halo 3 - Bungie
+Portal 2 - Valve Software
+Titanfall 2 - Respawn Entertainment
