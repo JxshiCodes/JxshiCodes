@@ -1,7 +1,7 @@
 ### About me:
-- 🔭 I’m currently finishing my GCSEs and moving on to A-Levels
-- 🌱 I’m currently learning how to make games like the ones that sparked my imagination
-- ⚡ Any projects will be posted onto here -->
+- 🔭 I am currently studying Computer Science, Maths & Physics at A-Level
+- 🌱 My main focus is my A-Level Project which is a 2D fighting game.
+- ⚡ Long Live Open Source Software!
 
 ### 🎮 Favourite Games:
 - The Legend of Zelda: Breath of The Wild - Nintendo
