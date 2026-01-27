@@ -7,4 +7,4 @@ I have experience developing basic forms applications in Visual Basic and C# in 
 
 I'm also really picky about what repos I make public, as if it's not fit for public use, I don't see why it should be made public.
 
-I spend my free time primarily playing Counter-Strike, or any indie game obsession I currently have.
+I spend my free time primarily playing Counter-Strike, Deadlock, Dota 2, or any indie game obsession I currently have.
